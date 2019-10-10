@@ -1,0 +1,83 @@
+{
+	
+	"moreProduct":[
+						{
+							"imgUrl":"data/img/100912000000t0dbm2E57_C_500_333_Q70.jpg",
+							"des":"长滩岛6-7日自由行·国庆吉祥直飞特价 单机票 可选机场酒店往返接送含码头税环境税 含餐饮+23公斤行李额度",
+							"price":"1755"
+						},
+						{
+							"imgUrl":"data/img/300n15000000yk8xe1C13_C_500_333_Q70.jpg",
+							"des":"沙巴6日自由行·『尾单抢购』上海春秋直飞 6天往返【单机票】电子签材料简化1天出签+含税含10KG托运行李",
+							"price":"1085"
+						},
+						{
+							"imgUrl":"data/img/10030i0000009n3toBAAA_C_500_333_Q70.jpg",
+							"des":"越南岘港+会安5日4晚自由行·会安1晚 华灯初上 赏古城夜景",
+							"price":"3202"
+						},
+						{
+							"imgUrl":"data/img/30020j000000b30t1779F_C_500_333_Q70.jpg",
+							"des":"马尔代夫6-7日自由行·『上海出发单机票·11-12月·6日4晚周一直飞特价』仅含上海-马累往返含税机票",
+							"price":"2800"
+						}
+						
+				],
+				"managerRecom":[
+						{
+							"des":"特惠机票限量抢，手慢无！"
+						},
+						{
+							"des":"岘港，被美国国家地理杂志评为“人生必到的50个地方”之一！"
+						}
+				],
+				"dataS":[
+					{
+						"dataOne":"10/16",	
+						"price":"￥2450"
+					},
+					{
+						"dataOne":"10/17",	
+						"price":"￥1974"
+					},
+					{
+						"dataOne":"10/18",	
+						"price":"￥1974"
+					},
+					{
+						"dataOne":"10/19",	
+						"price":"￥1974"
+					},
+					{
+						"more":"更多",
+						"ban":"班期"
+					}
+				],
+				"banner":[
+						{
+							"imgUrl":"data/img/1004050000000nm7082D0_C_750_420_Q90.jpg"
+						},
+						{
+							"imgUrl":"data/img/CggYGVZ4whKAVpOIACuDygtf4cs789_C_750_420_Q90.jpg"
+						},
+						{
+							"imgUrl":"data/img/CghzfFWw-k2ARffOAB3RKixxr1s620_C_750_420_Q90.jpg"
+						},
+						{
+							"imgUrl":"data/img/100s0h0000008tuci2419_C_750_420_Q90.jpg"
+						},
+						{
+							"imgUrl":"data/img/CggYGVaUsGmAOQZ0AByq9ljHPSY638_C_750_420_Q90.jpg"
+						},
+						{
+							"imgUrl":"data/img/CggYGVaUsmuAPmGjADMxOqN_rKs933_C_750_420_Q90.jpg"
+						},
+						{
+							"imgUrl":"data/img/CggYHlZuSeqAMwNBADPGFrzgBOU095_C_750_420_Q90.jpg"
+						},
+						{
+							"imgUrl":"data/img/CggYG1YknweAZ8sBAC1m5Up_NDM431_C_750_420_Q90.jpg"
+						}
+				]
+	
+}

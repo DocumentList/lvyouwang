@@ -1,0 +1,39 @@
+{
+	"flyTick":{
+				"flyTickOne":[
+								
+								{
+									"economics":"经济舱",
+									"time":"",
+									"surplus":"",
+									"hours":"14:30",
+									"airport":"浦东国际机场 T2",
+									"zhuan1":"中转",
+									"dress1":"上海",
+									"dress2":"新加坡",
+									"hoursOne":"19:50",
+									"airportOne":"沾益机场 T3"
+								}
+								
+							],
+							
+				"flyTickOne":[
+								{
+									
+									"economics":"经济舱",
+									"time":"",
+									"surplus":"",
+									"hours":"14:30",
+									"airport":"浦东国际机场 T2",
+									"zhuan1":"中转",
+									"dress1":"上海",
+									"dress2":"新加坡",
+									"hoursOne":"19:50",
+									"airportOne":"沾益机场 T3"
+								}
+							]
+				
+		}
+		
+	
+}
